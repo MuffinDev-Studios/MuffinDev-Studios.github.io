@@ -1,4 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
 html {
     font-family: 'Poppins', sans-serif;
+    background-color: #161616;
+    color: #f1f1f1
+}
+h1.title {
+    color:#dfdfdf;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+}
+p.title {
+    color:#c4c4c4;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
 }
