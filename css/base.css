@@ -6,7 +6,7 @@ html {
     background-color: #161616;
     color: #f1f1f1
 }
-heading {
+header {
     border: 2px solid #c0c0c0;
     border-radius: 5px;
     min-width: none;
@@ -15,6 +15,8 @@ heading {
 body {
     border: 2px solid #c0c0c0;
     border-radius: 5px;
+    min-width: none;
+    min-height: none;
 }
 h1.title {
     color:#dfdfdf;
